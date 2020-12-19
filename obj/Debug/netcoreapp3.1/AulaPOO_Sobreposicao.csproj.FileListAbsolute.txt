@@ -1,0 +1,13 @@
+G:\POO\Projeto-POO-PolimorfismoSobreposição\AulaPOO_Sobreposicao\bin\Debug\netcoreapp3.1\AulaPOO_Sobreposicao.exe
+G:\POO\Projeto-POO-PolimorfismoSobreposição\AulaPOO_Sobreposicao\bin\Debug\netcoreapp3.1\AulaPOO_Sobreposicao.deps.json
+G:\POO\Projeto-POO-PolimorfismoSobreposição\AulaPOO_Sobreposicao\bin\Debug\netcoreapp3.1\AulaPOO_Sobreposicao.runtimeconfig.json
+G:\POO\Projeto-POO-PolimorfismoSobreposição\AulaPOO_Sobreposicao\bin\Debug\netcoreapp3.1\AulaPOO_Sobreposicao.runtimeconfig.dev.json
+G:\POO\Projeto-POO-PolimorfismoSobreposição\AulaPOO_Sobreposicao\bin\Debug\netcoreapp3.1\AulaPOO_Sobreposicao.dll
+G:\POO\Projeto-POO-PolimorfismoSobreposição\AulaPOO_Sobreposicao\bin\Debug\netcoreapp3.1\AulaPOO_Sobreposicao.pdb
+G:\POO\Projeto-POO-PolimorfismoSobreposição\AulaPOO_Sobreposicao\obj\Debug\netcoreapp3.1\AulaPOO_Sobreposicao.csprojAssemblyReference.cache
+G:\POO\Projeto-POO-PolimorfismoSobreposição\AulaPOO_Sobreposicao\obj\Debug\netcoreapp3.1\AulaPOO_Sobreposicao.AssemblyInfoInputs.cache
+G:\POO\Projeto-POO-PolimorfismoSobreposição\AulaPOO_Sobreposicao\obj\Debug\netcoreapp3.1\AulaPOO_Sobreposicao.AssemblyInfo.cs
+G:\POO\Projeto-POO-PolimorfismoSobreposição\AulaPOO_Sobreposicao\obj\Debug\netcoreapp3.1\AulaPOO_Sobreposicao.csproj.CoreCompileInputs.cache
+G:\POO\Projeto-POO-PolimorfismoSobreposição\AulaPOO_Sobreposicao\obj\Debug\netcoreapp3.1\AulaPOO_Sobreposicao.dll
+G:\POO\Projeto-POO-PolimorfismoSobreposição\AulaPOO_Sobreposicao\obj\Debug\netcoreapp3.1\AulaPOO_Sobreposicao.pdb
+G:\POO\Projeto-POO-PolimorfismoSobreposição\AulaPOO_Sobreposicao\obj\Debug\netcoreapp3.1\AulaPOO_Sobreposicao.genruntimeconfig.cache
